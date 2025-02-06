@@ -1,0 +1,11 @@
+# Project 4 Evaluation Feedback & Scores by Next Hikes
+
+## Feedback
+- The project effectively meets the requirements, showcasing a structured approach to data preprocessing, feature engineering, model building, and evaluation.
+- The use of PCA, hyperparameter tuning, and clear visualizations enhances the quality of the analysis.
+- The Random Forest model performed exceptionally well, with a strong R1 Score.
+- Recommendations and feature importance insights are useful but could be tied more explicitly to business applications.
+
+## Scores
+- **Score**: 92/100
+- **Grade**: A
