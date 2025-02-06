@@ -1,0 +1,5 @@
+Project 1 Evaluation Feedback & Scores by Next Hikes:
+
+Great job on the scientific calculator! It includes useful functions like square roots, trigonometry, and percentage calculation. The layout is clean and easy to use. A little more error handling and comments would make it even better. Well done!
+
+Score: 92/100 Grade: A
