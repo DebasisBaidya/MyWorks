@@ -1,5 +1,0 @@
-Project 2 Evaluation Feedback & Scores by Next Hikes:
-
-Great work on data exploration and preprocessing, including handling missing values and analyzing outliers and skewness. However, merged datasets need alignment to avoid null values, and skewness and outlier handling could be improved with actionable steps. Correlation analysis is solid but could include more focused insights.
-
-Score: 85/100 Grade: B
