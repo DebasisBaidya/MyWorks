@@ -1,1 +1,12 @@
-dssfd
+# Project 5 Feedback & Scores by Next Hikes
+
+## Feedback
+- You’ve done a great job in handling the data, cleaning, aggregating, and merging datasets effectively.
+- The Random Forest model for predicting satisfaction and the K-Means clustering were well executed, although there’s room for improvement, particularly with overfitting in the model and clustering results.
+- The integration with SQL for data storage adds value to your work, making it scalable for future use.
+- The analysis is thorough, and the steps are clearly defined.
+- However, further refinement in feature selection, clustering, and model generalization would enhance your results.
+
+## Scores
+- **Score**: 85/100  
+- **Grade**: B
