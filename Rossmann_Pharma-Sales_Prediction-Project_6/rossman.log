@@ -1,0 +1,416 @@
+2025-03-10 04:59:00,309 - INFO - Logging setup complete.
+2025-03-10 04:59:00,311 - INFO - This is an info message.
+2025-03-10 04:59:00,312 - WARNING - This is a warning message.
+2025-03-10 04:59:00,313 - ERROR - This is an error message.
+2025-03-10 04:59:00,313 - CRITICAL - This is a critical message.
+2025-03-10 04:59:00,467 - INFO - NumExpr defaulting to 2 threads.
+2025-03-10 04:59:03,925 - INFO - Data loaded successfully.
+2025-03-10 04:59:04,065 - INFO - Train shape: (1017209, 18)
+2025-03-10 04:59:04,066 - INFO - Test shape: (41088, 8)
+2025-03-10 04:59:04,067 - INFO - Store shape: (1115, 10)
+2025-03-10 05:01:37,398 - INFO - Logging setup complete.
+2025-03-10 05:01:37,399 - INFO - This is an info message.
+2025-03-10 05:01:37,400 - WARNING - This is a warning message.
+2025-03-10 05:01:37,400 - ERROR - This is an error message.
+2025-03-10 05:01:37,400 - CRITICAL - This is a critical message.
+2025-03-10 05:01:37,555 - INFO - NumExpr defaulting to 2 threads.
+2025-03-10 05:01:38,901 - INFO - Data loaded successfully.
+2025-03-10 05:01:39,187 - INFO - Train shape: (1017209, 18)
+2025-03-10 05:01:39,195 - INFO - Test shape: (41088, 8)
+2025-03-10 05:01:39,195 - INFO - Store shape: (1115, 10)
+2025-03-10 05:05:28,230 - INFO - Logging setup complete.
+2025-03-10 05:05:28,233 - INFO - This is an info message.
+2025-03-10 05:05:28,233 - WARNING - This is a warning message.
+2025-03-10 05:05:28,233 - ERROR - This is an error message.
+2025-03-10 05:05:28,233 - CRITICAL - This is a critical message.
+2025-03-10 05:05:28,640 - INFO - NumExpr defaulting to 2 threads.
+2025-03-10 05:05:29,859 - INFO - Data loaded successfully.
+2025-03-10 05:05:30,032 - INFO - Train shape: (1017209, 18)
+2025-03-10 05:05:30,032 - INFO - Test shape: (41088, 8)
+2025-03-10 05:05:30,032 - INFO - Store shape: (1115, 10)
+2025-03-10 05:12:47,186 - INFO - Logging setup complete.
+2025-03-10 05:12:47,186 - INFO - This is an info message.
+2025-03-10 05:12:47,187 - WARNING - This is a warning message.
+2025-03-10 05:12:47,187 - ERROR - This is an error message.
+2025-03-10 05:12:47,187 - CRITICAL - This is a critical message.
+2025-03-10 05:12:47,470 - INFO - NumExpr defaulting to 2 threads.
+2025-03-10 05:12:49,457 - INFO - Data loaded successfully.
+2025-03-10 05:12:49,781 - INFO - Train shape: (1017209, 18)
+2025-03-10 05:12:49,782 - INFO - Test shape: (41088, 8)
+2025-03-10 05:12:49,782 - INFO - Store shape: (1115, 10)
+2025-03-10 05:12:55,674 - INFO - Creating Year Feature
+2025-03-10 05:12:55,716 - INFO - Creating Month Feature
+2025-03-10 05:12:55,755 - INFO - Creating Day Feature
+2025-03-10 05:12:55,805 - INFO - Creating WeekOfYear Feature
+2025-03-10 05:12:55,853 - INFO - Creating DayOfYear Feature
+2025-03-10 05:12:56,338 - INFO - Creating is_holiday Feature
+2025-03-10 05:12:56,361 - INFO - Creating CompetitionOpenSince Feature
+2025-03-10 05:12:56,957 - INFO - Creating PromoTime Feature
+2025-03-10 05:12:56,967 - INFO - Creating SalesPerCustomer Feature
+2025-03-10 05:12:57,086 - INFO - Creating Season Feature
+2025-03-10 05:12:57,526 - INFO - Starting EDA...
+2025-03-10 05:12:58,160 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:12:58,553 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:12:58,849 - INFO - Plotting promo distribution in training data...
+2025-03-10 05:12:58,873 - INFO - Completed sales behavior analysis around holidays
+2025-03-10 05:12:59,090 - INFO - Analyzed seasonal sales behavior
+2025-03-10 05:12:59,529 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:12:59,909 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:13:01,849 - INFO - Plotting Sales Distribution vs. Promo
+2025-03-10 05:13:01,914 - INFO - Analysis has been made for Promo
+2025-03-10 05:13:01,947 - INFO - Stores open on all weekdays: Index([  85,  122,  209,  259,  262,  274,  299,  310,  335,  353,  423,  433,
+        453,  494,  512,  524,  530,  562,  578,  676,  682,  732,  733,  769,
+        863,  867,  877,  931,  948, 1045, 1081, 1097, 1099],
+      dtype='int64', name='Store')
+2025-03-10 05:13:02,423 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:13:02,838 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:13:04,982 - INFO - Plotting Sales Distribution by Assortment Type...
+2025-03-10 05:13:05,393 - INFO - Plotting Sales vs. Competition Distance (Hexbin Plot with Viridis)...
+2025-03-10 05:13:05,464 - INFO - Dropped feature engineering columns.
+2025-03-10 05:13:05,518 - INFO - Dropped specified store data from training and test datasets.
+2025-03-10 05:31:53,757 - INFO - Logging setup complete.
+2025-03-10 05:31:53,765 - INFO - This is an info message.
+2025-03-10 05:31:53,768 - WARNING - This is a warning message.
+2025-03-10 05:31:53,770 - ERROR - This is an error message.
+2025-03-10 05:31:53,772 - CRITICAL - This is a critical message.
+2025-03-10 05:31:54,010 - INFO - NumExpr defaulting to 2 threads.
+2025-03-10 05:31:55,272 - INFO - Data loaded successfully.
+2025-03-10 05:31:55,451 - INFO - Train shape: (1017209, 18)
+2025-03-10 05:31:55,453 - INFO - Test shape: (41088, 8)
+2025-03-10 05:31:55,455 - INFO - Store shape: (1115, 10)
+2025-03-10 05:31:59,516 - INFO - Creating Year Feature
+2025-03-10 05:31:59,538 - INFO - Creating Month Feature
+2025-03-10 05:31:59,559 - INFO - Creating Day Feature
+2025-03-10 05:31:59,596 - INFO - Creating WeekOfYear Feature
+2025-03-10 05:31:59,622 - INFO - Creating DayOfYear Feature
+2025-03-10 05:31:59,835 - INFO - Creating is_holiday Feature
+2025-03-10 05:31:59,849 - INFO - Creating CompetitionOpenSince Feature
+2025-03-10 05:32:00,243 - INFO - Creating PromoTime Feature
+2025-03-10 05:32:00,256 - INFO - Creating SalesPerCustomer Feature
+2025-03-10 05:32:00,396 - INFO - Creating Season Feature
+2025-03-10 05:32:00,479 - INFO - Starting EDA...
+2025-03-10 05:32:00,981 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:32:01,511 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:32:01,934 - INFO - Plotting promo distribution in training data...
+2025-03-10 05:32:01,963 - INFO - Completed sales behavior analysis around holidays
+2025-03-10 05:32:02,306 - INFO - Analyzed seasonal sales behavior
+2025-03-10 05:32:02,899 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:32:03,463 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:32:05,372 - INFO - Plotting Sales Distribution vs. Promo
+2025-03-10 05:32:05,426 - INFO - Analysis has been made for Promo
+2025-03-10 05:32:05,460 - INFO - Stores open on all weekdays: Index([  85,  122,  209,  259,  262,  274,  299,  310,  335,  353,  423,  433,
+        453,  494,  512,  524,  530,  562,  578,  676,  682,  732,  733,  769,
+        863,  867,  877,  931,  948, 1045, 1081, 1097, 1099],
+      dtype='int64', name='Store')
+2025-03-10 05:32:05,876 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:32:06,306 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:32:08,298 - INFO - Plotting Sales Distribution by Assortment Type...
+2025-03-10 05:32:08,557 - INFO - Plotting Sales vs. Competition Distance (Hexbin Plot with Viridis)...
+2025-03-10 05:32:08,645 - INFO - Dropped feature engineering columns.
+2025-03-10 05:32:08,681 - INFO - Dropped specified store data from training and test datasets.
+2025-03-10 05:33:44,039 - INFO - Logging setup complete.
+2025-03-10 05:33:44,042 - INFO - This is an info message.
+2025-03-10 05:33:44,044 - WARNING - This is a warning message.
+2025-03-10 05:33:44,045 - ERROR - This is an error message.
+2025-03-10 05:33:44,047 - CRITICAL - This is a critical message.
+2025-03-10 05:33:44,210 - INFO - NumExpr defaulting to 2 threads.
+2025-03-10 05:33:46,030 - INFO - Data loaded successfully.
+2025-03-10 05:33:46,441 - INFO - Train shape: (1017209, 18)
+2025-03-10 05:33:46,442 - INFO - Test shape: (41088, 8)
+2025-03-10 05:33:46,443 - INFO - Store shape: (1115, 10)
+2025-03-10 05:33:51,552 - INFO - Creating Year Feature
+2025-03-10 05:33:51,611 - INFO - Creating Month Feature
+2025-03-10 05:33:51,644 - INFO - Creating Day Feature
+2025-03-10 05:33:51,736 - INFO - Creating WeekOfYear Feature
+2025-03-10 05:33:51,809 - INFO - Creating DayOfYear Feature
+2025-03-10 05:33:52,557 - INFO - Creating is_holiday Feature
+2025-03-10 05:33:52,623 - INFO - Creating CompetitionOpenSince Feature
+2025-03-10 05:33:53,893 - INFO - Creating PromoTime Feature
+2025-03-10 05:33:53,927 - INFO - Creating SalesPerCustomer Feature
+2025-03-10 05:33:54,393 - INFO - Creating Season Feature
+2025-03-10 05:33:54,624 - INFO - Starting EDA...
+2025-03-10 05:33:55,687 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:33:56,314 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:33:56,689 - INFO - Plotting promo distribution in training data...
+2025-03-10 05:33:56,709 - INFO - Completed sales behavior analysis around holidays
+2025-03-10 05:33:56,942 - INFO - Analyzed seasonal sales behavior
+2025-03-10 05:33:57,498 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:33:58,087 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:34:00,334 - INFO - Plotting Sales Distribution vs. Promo
+2025-03-10 05:34:00,387 - INFO - Analysis has been made for Promo
+2025-03-10 05:34:00,420 - INFO - Stores open on all weekdays: Index([  85,  122,  209,  259,  262,  274,  299,  310,  335,  353,  423,  433,
+        453,  494,  512,  524,  530,  562,  578,  676,  682,  732,  733,  769,
+        863,  867,  877,  931,  948, 1045, 1081, 1097, 1099],
+      dtype='int64', name='Store')
+2025-03-10 05:34:00,871 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:34:01,248 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:34:03,148 - INFO - Plotting Sales Distribution by Assortment Type...
+2025-03-10 05:34:03,390 - INFO - Plotting Sales vs. Competition Distance (Hexbin Plot with Viridis)...
+2025-03-10 05:34:03,431 - INFO - Dropped feature engineering columns.
+2025-03-10 05:34:03,463 - INFO - Dropped specified store data from training and test datasets.
+2025-03-10 05:36:38,013 - INFO - Logging setup complete.
+2025-03-10 05:36:38,023 - INFO - This is an info message.
+2025-03-10 05:36:38,024 - WARNING - This is a warning message.
+2025-03-10 05:36:38,025 - ERROR - This is an error message.
+2025-03-10 05:36:38,026 - CRITICAL - This is a critical message.
+2025-03-10 05:36:38,444 - INFO - NumExpr defaulting to 2 threads.
+2025-03-10 05:36:40,087 - INFO - Data loaded successfully.
+2025-03-10 05:36:40,257 - INFO - Train shape: (1017209, 18)
+2025-03-10 05:36:40,261 - INFO - Test shape: (41088, 8)
+2025-03-10 05:36:40,264 - INFO - Store shape: (1115, 10)
+2025-03-10 05:36:46,218 - INFO - Creating Year Feature
+2025-03-10 05:36:46,240 - INFO - Creating Month Feature
+2025-03-10 05:36:46,260 - INFO - Creating Day Feature
+2025-03-10 05:36:46,304 - INFO - Creating WeekOfYear Feature
+2025-03-10 05:36:46,326 - INFO - Creating DayOfYear Feature
+2025-03-10 05:36:46,532 - INFO - Creating is_holiday Feature
+2025-03-10 05:36:46,547 - INFO - Creating CompetitionOpenSince Feature
+2025-03-10 05:36:46,947 - INFO - Creating PromoTime Feature
+2025-03-10 05:36:46,959 - INFO - Creating SalesPerCustomer Feature
+2025-03-10 05:36:47,079 - INFO - Creating Season Feature
+2025-03-10 05:36:47,259 - INFO - Starting EDA...
+2025-03-10 05:36:47,698 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:36:48,048 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:36:48,347 - INFO - Plotting promo distribution in training data...
+2025-03-10 05:36:48,370 - INFO - Completed sales behavior analysis around holidays
+2025-03-10 05:36:48,672 - INFO - Analyzed seasonal sales behavior
+2025-03-10 05:36:49,245 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:36:49,913 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:36:52,081 - INFO - Plotting Sales Distribution vs. Promo
+2025-03-10 05:36:52,139 - INFO - Analysis has been made for Promo
+2025-03-10 05:36:52,178 - INFO - Stores open on all weekdays: Index([  85,  122,  209,  259,  262,  274,  299,  310,  335,  353,  423,  433,
+        453,  494,  512,  524,  530,  562,  578,  676,  682,  732,  733,  769,
+        863,  867,  877,  931,  948, 1045, 1081, 1097, 1099],
+      dtype='int64', name='Store')
+2025-03-10 05:36:52,613 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:36:53,062 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-10 05:36:54,959 - INFO - Plotting Sales Distribution by Assortment Type...
+2025-03-10 05:36:55,208 - INFO - Plotting Sales vs. Competition Distance (Hexbin Plot with Viridis)...
+2025-03-10 05:36:55,267 - INFO - Dropped feature engineering columns.
+2025-03-10 05:36:55,305 - INFO - Dropped specified store data from training and test datasets.
+2025-03-10 05:41:22,301 - INFO - Logging setup complete.
+2025-03-10 05:41:22,301 - INFO - Logging setup complete., force = True
+2025-03-10 05:41:22,306 - INFO - This is an info message.
+2025-03-10 05:41:22,306 - INFO - This is an info message., force = True
+2025-03-10 05:41:22,311 - WARNING - This is a warning message.
+2025-03-10 05:41:22,311 - WARNING - This is a warning message., force = True
+2025-03-10 05:41:22,313 - ERROR - This is an error message.
+2025-03-10 05:41:22,313 - ERROR - This is an error message., force = True
+2025-03-10 05:41:22,315 - CRITICAL - This is a critical message.
+2025-03-10 05:41:22,315 - CRITICAL - This is a critical message., force = True
+2025-03-10 05:41:32,155 - INFO - Data loaded successfully.
+2025-03-10 05:41:32,155 - INFO - Data loaded successfully., force = True
+2025-03-10 05:41:32,261 - INFO - Train shape: (1017209, 18)
+2025-03-10 05:41:32,261 - INFO - Train shape: (1017209, 18), force = True
+2025-03-10 05:41:32,263 - INFO - Test shape: (41088, 8)
+2025-03-10 05:41:32,263 - INFO - Test shape: (41088, 8), force = True
+2025-03-10 05:41:32,264 - INFO - Store shape: (1115, 10)
+2025-03-10 05:41:32,264 - INFO - Store shape: (1115, 10), force = True
+2025-03-10 05:45:11,895 - INFO - Logging setup complete., force = True
+2025-03-10 05:45:11,903 - INFO - This is an info message., force = True
+2025-03-10 05:45:11,905 - WARNING - This is a warning message., force = True
+2025-03-10 05:45:11,906 - ERROR - This is an error message., force = True
+2025-03-10 05:45:11,907 - CRITICAL - This is a critical message., force = True
+2025-03-10 05:45:12,283 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-10 06:11:42,899 - INFO - Logging setup complete., force = True
+2025-03-10 06:11:42,914 - INFO - This is an info message., force = True
+2025-03-10 06:11:42,915 - WARNING - This is a warning message., force = True
+2025-03-10 06:11:42,917 - ERROR - This is an error message., force = True
+2025-03-10 06:11:42,919 - CRITICAL - This is a critical message., force = True
+2025-03-10 06:11:43,261 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-10 06:39:31,698 - INFO - Logging setup complete., force = True
+2025-03-10 06:39:32,121 - INFO - This is an info message., force = True
+2025-03-10 06:39:32,122 - WARNING - This is a warning message., force = True
+2025-03-10 06:39:32,122 - ERROR - This is an error message., force = True
+2025-03-10 06:39:32,123 - CRITICAL - This is a critical message., force = True
+2025-03-10 13:57:42,473 - INFO - Logging setup complete., force = True
+2025-03-10 13:57:43,444 - INFO - This is an info message., force = True
+2025-03-10 13:57:43,445 - WARNING - This is a warning message., force = True
+2025-03-10 13:57:43,446 - ERROR - This is an error message., force = True
+2025-03-10 13:57:43,447 - CRITICAL - This is a critical message., force = True
+2025-03-10 13:58:26,959 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-10 17:19:20,338 - INFO - Logging setup complete., force = True
+2025-03-10 17:19:20,963 - INFO - This is an info message., force = True
+2025-03-10 17:19:20,964 - WARNING - This is a warning message., force = True
+2025-03-10 17:19:20,965 - ERROR - This is an error message., force = True
+2025-03-10 17:19:20,966 - CRITICAL - This is a critical message., force = True
+2025-03-10 17:19:25,504 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-14 04:32:30,796 - INFO - Logging setup complete., force = True
+2025-03-14 04:32:31,145 - INFO - This is an info message., force = True
+2025-03-14 04:32:31,146 - WARNING - This is a warning message., force = True
+2025-03-14 04:32:31,147 - ERROR - This is an error message., force = True
+2025-03-14 04:32:31,150 - CRITICAL - This is a critical message., force = True
+2025-03-14 04:32:35,864 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-14 04:35:28,998 - INFO - Logging setup complete., force = True
+2025-03-14 04:35:29,002 - INFO - This is an info message., force = True
+2025-03-14 04:35:29,003 - WARNING - This is a warning message., force = True
+2025-03-14 04:35:29,004 - ERROR - This is an error message., force = True
+2025-03-14 04:35:29,004 - CRITICAL - This is a critical message., force = True
+2025-03-14 04:35:32,318 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-14 04:39:54,778 - INFO - Logging setup complete., force = True
+2025-03-14 04:39:54,783 - INFO - This is an info message., force = True
+2025-03-14 04:39:54,785 - WARNING - This is a warning message., force = True
+2025-03-14 04:39:54,786 - ERROR - This is an error message., force = True
+2025-03-14 04:39:54,787 - CRITICAL - This is a critical message., force = True
+2025-03-14 04:39:58,518 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-14 04:40:31,691 - INFO - Logging setup complete., force = True
+2025-03-14 04:40:31,695 - INFO - This is an info message., force = True
+2025-03-14 04:40:31,696 - WARNING - This is a warning message., force = True
+2025-03-14 04:40:31,697 - ERROR - This is an error message., force = True
+2025-03-14 04:40:31,698 - CRITICAL - This is a critical message., force = True
+2025-03-14 04:40:35,889 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-14 04:47:17,528 - INFO - Logging setup complete., force = True
+2025-03-14 04:47:17,533 - INFO - This is an info message., force = True
+2025-03-14 04:47:17,534 - WARNING - This is a warning message., force = True
+2025-03-14 04:47:17,535 - ERROR - This is an error message., force = True
+2025-03-14 04:47:17,535 - CRITICAL - This is a critical message., force = True
+2025-03-14 04:47:22,979 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-14 05:02:41,176 - INFO - Logging setup complete., force = True
+2025-03-14 05:02:41,179 - INFO - This is an info message., force = True
+2025-03-14 05:02:41,180 - WARNING - This is a warning message., force = True
+2025-03-14 05:02:41,181 - ERROR - This is an error message., force = True
+2025-03-14 05:02:41,182 - CRITICAL - This is a critical message., force = True
+2025-03-14 05:08:07,165 - INFO - Logging setup complete., force = True
+2025-03-14 05:08:07,169 - INFO - This is an info message., force = True
+2025-03-14 05:08:07,170 - WARNING - This is a warning message., force = True
+2025-03-14 05:08:07,171 - ERROR - This is an error message., force = True
+2025-03-14 05:08:07,172 - CRITICAL - This is a critical message., force = True
+2025-03-14 05:14:48,861 - INFO - Logging setup complete., force = True
+2025-03-14 05:14:48,866 - INFO - This is an info message., force = True
+2025-03-14 05:14:48,867 - WARNING - This is a warning message., force = True
+2025-03-14 05:14:48,868 - ERROR - This is an error message., force = True
+2025-03-14 05:14:48,869 - CRITICAL - This is a critical message., force = True
+2025-03-14 05:22:42,459 - INFO - Logging setup complete., force = True
+2025-03-14 05:22:42,463 - INFO - This is an info message., force = True
+2025-03-14 05:22:42,468 - WARNING - This is a warning message., force = True
+2025-03-14 05:22:42,469 - ERROR - This is an error message., force = True
+2025-03-14 05:22:42,470 - CRITICAL - This is a critical message., force = True
+2025-03-14 05:24:40,210 - INFO - Logging setup complete., force = True
+2025-03-14 05:24:40,213 - INFO - This is an info message., force = True
+2025-03-14 05:24:40,214 - WARNING - This is a warning message., force = True
+2025-03-14 05:24:40,215 - ERROR - This is an error message., force = True
+2025-03-14 05:24:40,217 - CRITICAL - This is a critical message., force = True
+2025-03-14 05:33:16,331 - INFO - Logging setup complete., force = True
+2025-03-14 05:33:16,334 - INFO - This is an info message., force = True
+2025-03-14 05:33:16,335 - WARNING - This is a warning message., force = True
+2025-03-14 05:33:16,335 - ERROR - This is an error message., force = True
+2025-03-14 05:33:16,337 - CRITICAL - This is a critical message., force = True
+2025-03-14 05:41:53,609 - INFO - Logging setup complete., force = True
+2025-03-14 05:41:53,619 - INFO - This is an info message., force = True
+2025-03-14 05:41:53,620 - WARNING - This is a warning message., force = True
+2025-03-14 05:41:53,621 - ERROR - This is an error message., force = True
+2025-03-14 05:41:53,622 - CRITICAL - This is a critical message., force = True
+2025-03-14 05:41:56,565 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-14 05:44:12,642 - INFO - Logging setup complete., force = True
+2025-03-14 05:44:12,647 - INFO - This is an info message., force = True
+2025-03-14 05:44:12,649 - WARNING - This is a warning message., force = True
+2025-03-14 05:44:12,651 - ERROR - This is an error message., force = True
+2025-03-14 05:44:12,653 - CRITICAL - This is a critical message., force = True
+2025-03-14 05:44:12,919 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-14 06:08:01,124 - INFO - Logging setup complete., force = True
+2025-03-14 06:08:01,126 - INFO - This is an info message., force = True
+2025-03-14 06:08:01,127 - WARNING - This is a warning message., force = True
+2025-03-14 06:08:01,128 - ERROR - This is an error message., force = True
+2025-03-14 06:08:01,129 - CRITICAL - This is a critical message., force = True
+2025-03-14 06:08:01,259 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-14 07:12:45,542 - INFO - Logging setup complete., force = True
+2025-03-14 07:12:45,548 - INFO - This is an info message., force = True
+2025-03-14 07:12:45,549 - WARNING - This is a warning message., force = True
+2025-03-14 07:12:45,550 - ERROR - This is an error message., force = True
+2025-03-14 07:12:45,551 - CRITICAL - This is a critical message., force = True
+2025-03-14 07:12:45,745 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-14 15:36:37,406 - INFO - Logging setup complete., force = True
+2025-03-14 15:36:38,143 - INFO - This is an info message., force = True
+2025-03-14 15:36:38,185 - WARNING - This is a warning message., force = True
+2025-03-14 15:36:38,189 - ERROR - This is an error message., force = True
+2025-03-14 15:36:38,192 - CRITICAL - This is a critical message., force = True
+2025-03-14 15:36:38,409 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-15 04:01:07,738 - INFO - Logging setup complete., force = True
+2025-03-15 04:01:08,403 - INFO - This is an info message., force = True
+2025-03-15 04:01:08,417 - WARNING - This is a warning message., force = True
+2025-03-15 04:01:08,420 - ERROR - This is an error message., force = True
+2025-03-15 04:01:08,422 - CRITICAL - This is a critical message., force = True
+2025-03-15 04:01:08,609 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-15 06:10:55,974 - INFO - Logging setup complete., force = True
+2025-03-15 06:10:55,979 - INFO - This is an info message., force = True
+2025-03-15 06:10:55,981 - WARNING - This is a warning message., force = True
+2025-03-15 06:10:55,982 - ERROR - This is an error message., force = True
+2025-03-15 06:10:55,984 - CRITICAL - This is a critical message., force = True
+2025-03-15 06:10:56,217 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-15 07:21:13,875 - INFO - Logging setup complete., force = True
+2025-03-15 07:21:13,880 - INFO - This is an info message., force = True
+2025-03-15 07:21:13,882 - WARNING - This is a warning message., force = True
+2025-03-15 07:21:13,884 - ERROR - This is an error message., force = True
+2025-03-15 07:21:13,886 - CRITICAL - This is a critical message., force = True
+2025-03-15 07:21:14,090 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-15 07:28:22,785 - INFO - Logging setup complete., force = True
+2025-03-15 07:28:22,789 - INFO - This is an info message., force = True
+2025-03-15 07:28:22,791 - WARNING - This is a warning message., force = True
+2025-03-15 07:28:22,791 - ERROR - This is an error message., force = True
+2025-03-15 07:28:22,792 - CRITICAL - This is a critical message., force = True
+2025-03-15 07:28:23,327 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-15 07:33:55,575 - INFO - Logging setup complete., force = True
+2025-03-15 07:33:56,422 - INFO - This is an info message., force = True
+2025-03-15 07:33:56,423 - WARNING - This is a warning message., force = True
+2025-03-15 07:33:56,424 - ERROR - This is an error message., force = True
+2025-03-15 07:33:56,425 - CRITICAL - This is a critical message., force = True
+2025-03-15 07:33:56,557 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-15 08:16:14,982 - INFO - Logging setup complete., force = True
+2025-03-15 08:16:14,984 - INFO - This is an info message., force = True
+2025-03-15 08:16:14,986 - WARNING - This is a warning message., force = True
+2025-03-15 08:16:14,987 - ERROR - This is an error message., force = True
+2025-03-15 08:16:14,988 - CRITICAL - This is a critical message., force = True
+2025-03-15 08:16:18,354 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-15 08:24:59,909 - INFO - Logging setup complete., force = True
+2025-03-15 08:24:59,912 - INFO - This is an info message., force = True
+2025-03-15 08:24:59,913 - WARNING - This is a warning message., force = True
+2025-03-15 08:24:59,914 - ERROR - This is an error message., force = True
+2025-03-15 08:24:59,915 - CRITICAL - This is a critical message., force = True
+2025-03-15 08:25:03,021 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-15 08:31:21,494 - INFO - Logging setup complete., force = True
+2025-03-15 08:31:21,497 - INFO - This is an info message., force = True
+2025-03-15 08:31:21,498 - WARNING - This is a warning message., force = True
+2025-03-15 08:31:21,499 - ERROR - This is an error message., force = True
+2025-03-15 08:31:21,500 - CRITICAL - This is a critical message., force = True
+2025-03-15 08:35:26,589 - INFO - Logging setup complete., force = True
+2025-03-15 08:35:26,594 - INFO - This is an info message., force = True
+2025-03-15 08:35:26,596 - WARNING - This is a warning message., force = True
+2025-03-15 08:35:26,599 - ERROR - This is an error message., force = True
+2025-03-15 08:35:26,601 - CRITICAL - This is a critical message., force = True
+2025-03-15 08:35:29,705 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-15 10:30:28,527 - INFO - Logging setup complete., force = True
+2025-03-15 10:30:29,383 - INFO - This is an info message., force = True
+2025-03-15 10:30:29,390 - WARNING - This is a warning message., force = True
+2025-03-15 10:30:29,391 - ERROR - This is an error message., force = True
+2025-03-15 10:30:29,393 - CRITICAL - This is a critical message., force = True
+2025-03-15 10:30:29,552 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-15 17:21:23,882 - INFO - Logging setup complete., force = True
+2025-03-15 17:21:24,647 - INFO - This is an info message., force = True
+2025-03-15 17:21:24,653 - WARNING - This is a warning message., force = True
+2025-03-15 17:21:24,655 - ERROR - This is an error message., force = True
+2025-03-15 17:21:24,656 - CRITICAL - This is a critical message., force = True
+2025-03-15 17:21:24,791 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-16 04:51:25,566 - INFO - Logging setup complete., force = True
+2025-03-16 04:51:26,866 - INFO - This is an info message., force = True
+2025-03-16 04:51:26,883 - WARNING - This is a warning message., force = True
+2025-03-16 04:51:26,887 - ERROR - This is an error message., force = True
+2025-03-16 04:51:26,889 - CRITICAL - This is a critical message., force = True
+2025-03-16 04:51:27,085 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-16 06:36:05,184 - INFO - Logging setup complete., force = True
+2025-03-16 06:36:05,970 - INFO - This is an info message., force = True
+2025-03-16 06:36:05,971 - WARNING - This is a warning message., force = True
+2025-03-16 06:36:05,972 - ERROR - This is an error message., force = True
+2025-03-16 06:36:05,973 - CRITICAL - This is a critical message., force = True
+2025-03-16 06:36:06,097 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-16 07:19:09,209 - INFO - Logging setup complete., force = True
+2025-03-16 07:19:09,212 - INFO - This is an info message., force = True
+2025-03-16 07:19:09,213 - WARNING - This is a warning message., force = True
+2025-03-16 07:19:09,214 - ERROR - This is an error message., force = True
+2025-03-16 07:19:09,215 - CRITICAL - This is a critical message., force = True
+2025-03-16 07:19:09,593 - INFO - NumExpr defaulting to 2 threads., force = True
+2025-03-16 08:31:22,230 - INFO - Logging setup complete., force = True
+2025-03-16 08:31:22,901 - INFO - This is an info message., force = True
+2025-03-16 08:31:22,904 - WARNING - This is a warning message., force = True
+2025-03-16 08:31:22,906 - ERROR - This is an error message., force = True
+2025-03-16 08:31:22,908 - CRITICAL - This is a critical message., force = True
+2025-03-16 08:31:23,247 - INFO - NumExpr defaulting to 2 threads., force = True

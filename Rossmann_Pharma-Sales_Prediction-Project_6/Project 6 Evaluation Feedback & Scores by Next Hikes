@@ -1,0 +1,14 @@
+# Project 6 Evaluation Feedback & Scores by Next Hikes
+
+## Feedback
+- The project submission effectively meets the requirements, showcasing robust data cleaning, extensive exploratory data analysis, 
+adept feature engineering, and competent application of machine learning and deep learning models.
+- The utilization of Sklearn pipelines and TensorFlow for LSTM reflects a solid technical execution, especially with a predictive R2 Score of 99.22% for ML, 
+though the DL model's accuracy stands at 75.90%.
+- The integration of a Streamlit dashboard for interactive sales forecasting significantly enhances user interaction and practical application.
+- A minor recommendation includes improving the feature importance metrics to provide actual data-driven insights. 
+Overall, your project is technically sound with clear and detailed presentation. 
+
+## Scores
+- **Score**: 94/100
+- **Grade**: A
