@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
   </a>
   <a href="https://github.com/DebasisBaidya">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=DebasisBaidya" style="height:28px; margin-left: 4px;" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=DebasisBaidya" style="height:28px; margin-left: 2px;" />
   </a>
   <a href="https://github.com/DebasisBaidya">
     <img src="https://img.shields.io/github/followers/DebasisBaidya?label=Followers&style=for-the-badge&logo=github" />
