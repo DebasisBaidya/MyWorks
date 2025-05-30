@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Transforming manual processes into smart, automated systems for over 11 years</strong><br>
-  <i>Currently working as a Data Science Intern at NextHikes IT Solutions — building real-world projects in EDA, ML, DL & NLP</i>
+  <i>Currently Working as a Senior MIS Analyst as well as Interning as a Data Science Intern — building real-world projects in EDA, ML, DL & NLP</i>
 </p>
 
 <!-- 🛠️ TOOL BADGES -->
