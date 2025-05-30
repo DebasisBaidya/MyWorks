@@ -32,22 +32,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/debasisbaidya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:speak2debasis@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail_Me-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Mail_Me-red?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://github.com/DebasisBaidya">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=DebasisBaidya" style="height:28px; margin-left: 2px;" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=DebasisBaidya" style="height:20px; margin-left: 2px;" />
   </a>
   <a href="https://github.com/DebasisBaidya">
-    <img src="https://img.shields.io/github/followers/DebasisBaidya?label=Followers&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/followers/DebasisBaidya?label=Followers&style=flat&logo=github" />
   </a>
   <a href="https://github.com/DebasisBaidya?tab=stars">
-    <img src="https://img.shields.io/github/stars/DebasisBaidya?label=Stars&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/stars/DebasisBaidya?label=Stars&style=flat&logo=github" />
   </a>
 </p>
 
