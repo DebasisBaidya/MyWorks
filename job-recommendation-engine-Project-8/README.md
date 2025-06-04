@@ -33,7 +33,7 @@ Given a job description written by a user, recommend the most relevant job posti
 ├── Task 3 - 5.ipynb       # Feature engineering, vectorization, model building
 ├── Task 6 - 8.ipynb       # Evaluation, enhancements, UI logic
 ├── Recommender.py         # Streamlit app (deployed)
-├── job_data.csv           # Cleaned dataset (not uploaded)
+├── job_data.csv           # Cleaned dataset
 ├── vectorizer.pkl         # Saved TF-IDF vectorizer
 ├── job_recommender_model.pkl  # Saved KNN model
 ```
