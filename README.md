@@ -43,11 +43,12 @@
   <a href="https://github.com/DebasisBaidya">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=DebasisBaidya" style="height:20px; margin-left: 2px;" />
   </a>
+  </a>
   <a href="https://github.com/DebasisBaidya">
     <img src="https://img.shields.io/github/followers/DebasisBaidya?label=Followers&style=flat&logo=github" />
   </a>
   <a href="https://github.com/DebasisBaidya?tab=stars">
-    <img src="https://img.shields.io/github/stars/DebasisBaidya?label=Stars&style=flat&logo=github" />
+    <img src="https://img.shields.io/github/stars/DebasisBaidya?affiliations=OWNER&label=Total%20Stars&style=flat&logo=github" />
   </a>
 </p>
 
