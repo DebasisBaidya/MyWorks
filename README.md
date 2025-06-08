@@ -9,21 +9,20 @@
   <i>Currently Working as Senior MIS Analyst as well as Interning as Data Science Intern — building real-world projects in EDA, ML, DL & NLP</i>
 </p>
 
-<!-- 🛠️ TOOL BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Data_Science_| Analytics-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <a><img src="https://img.shields.io/badge/SQL-Queries-4479A1?logo=mysql&logoColor=white&style=flat-square" /></a>
-  <a><img src="https://img.shields.io/badge/Power%20BI-Data-yellow?logo=powerbi&logoColor=black&style=flat-square" /></a>
-  <a><img src="https://img.shields.io/badge/Tableau-Dashboards-005F9E?logo=tableau&logoColor=white&style=flat-square" /></a>
-  <a><img src="https://img.shields.io/badge/Google%20Sheets-Automation-34A853?logo=googlesheets&logoColor=white&style=flat-square" /></a>
-  <a><img src="https://img.shields.io/badge/Apps%20Script-Google-4285F4?logo=google&logoColor=white&style=flat-square" /></a>
-  <a><img src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" /></a>
-  <a><img src="https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoft-excel&logoColor=white&style=flat-square" /></a>
-  <a><img src="https://img.shields.io/badge/PowerPoint-Infographics-B7472A?logo=microsoft-powerpoint&logoColor=white&style=flat-square" /></a>
-  <a><img src="https://img.shields.io/badge/Canva-Designing-00C4CC?logo=canva&logoColor=white&style=flat-square" /></a>
-  <a><img src="https://img.shields.io/badge/Looker%20Studio-Reports-4285F4?logo=looker&logoColor=white&style=flat-square" /></a>
-  <a><img src="https://img.shields.io/badge/Google%20Sites-Intranet-34A853?logo=google&logoColor=white&style=flat-square" /></a>
-  <a><img src="https://img.shields.io/badge/Google%20Forms-Pre--Filled-4285F4?logo=googleforms&logoColor=white&style=flat-square" /></a>
+  <img src="https://img.shields.io/badge/Python-Data_Science_|_Analytics-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL-Queries-4479A1?logo=mysql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Power%20BI-Visualization-yellow?logo=powerbi&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/Tableau-Dashboards-005F9E?logo=tableau&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-Cloud AutoSave-34A853?logo=googlesheets&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-Automation-4285F4?logo=google&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoft-excel&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/PowerPoint-Infographics-B7472A?logo=microsoft-powerpoint&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Canva-Designing-00C4CC?logo=canva&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-Reports-4285F4?logo=looker&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Google%20Sites-Intranet-34A853?logo=google&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Google%20Forms-Pre--Filled-4285F4?logo=googleforms&logoColor=white&style=flat-square" />
 </p>
 
 <p align="center">🌟🌟🌟🌟🌟</p>
@@ -42,7 +41,6 @@
   </a>
   <a href="https://github.com/DebasisBaidya">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=DebasisBaidya" style="height:20px; margin-left: 2px;" />
-  </a>
   </a>
   <a href="https://github.com/DebasisBaidya">
     <img src="https://img.shields.io/github/followers/DebasisBaidya?label=Followers&style=flat&logo=github" />
@@ -64,7 +62,30 @@
 
 <p align="center">🌟🌟🌟🌟🌟</p>
 
-<p align="center">
-  🙏 Thanks for visiting my GitHub!<br>
-  ⭐ I'm someone who automates to elevate — turning manual chaos into meaningful clarity.
-</p>
+<h2 align="center">🚀 My GitHub Projects</h2>
+
+<p align="center">✨ Check out some of my awesome work on GitHub:</p>
+
+<table align="center">
+  <tr>
+    <td align="left" style="padding: 0 20px; max-width: 400px;">
+      <ul>
+        <li>🖥️ <a href="https://github.com/DebasisBaidya/GUI-Calculator_Project-1">GUI Calculator Project 1</a></li>
+        <li>🧹 <a href="https://github.com/DebasisBaidya/Data-Wrangling_Project-2">Data Wrangling Project 2</a></li>
+        <li>📊 <a href="https://github.com/DebasisBaidya/EDA_Project-3">Exploratory Data Analysis (EDA) Project 3</a></li>
+        <li>📱 <a href="https://github.com/DebasisBaidya/Prediction_For_Handsets-Project-4">Prediction For Handsets Project 4</a></li>
+        <li>📈 <a href="https://github.com/DebasisBaidya/Strategic-Business-Acquisition_Project-5">Strategic Business Acquisition Project 5</a></li>
+        <li>📅 <a href="https://github.com/DebasisBaidya/Sales_Forecasting_Project-6">Sales Forecasting Project 6</a></li>
+        <li>🌪️ <a href="https://github.com/DebasisBaidya/Disaster-Tweet-NLP_Project-7">Disaster Tweet NLP Project 7</a></li>
+        <li>💼 <a href="https://github.com/DebasisBaidya/job-recommendation-engine-Project-8">Job Recommendation Engine Project 8</a></li>
+        <li>🛒 <a href="https://github.com/DebasisBaidya/Amazon_Reviews_Sentiment-NLP">Amazon Reviews Sentiment NLP</a></li>
+        <li>📰 <a href="https://github.com/DebasisBaidya/LLM-News-Research-Tool_Project-9">LLM News Research Tool Project 9</a></li>
+        <li>📂 <a href="https://github.com/DebasisBaidya/MyWorks">MyWorks</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+
+
