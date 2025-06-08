@@ -86,6 +86,11 @@
   </tr>
 </table>
 
+<p align="center">🌟🌟🌟🌟🌟</p>
 
+<p align="center">
+  🙏 Thanks for visiting my GitHub Profile!<br>
+  ⭐ I'm someone who automates to elevate — turning manual chaos into meaningful clarity.
+</p>
 
 
