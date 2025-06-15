@@ -14,7 +14,8 @@
 
 ---
 
-### 🔹 Step 1: 📥 Importing of Libraries
+## 🔹 Step 1:
+### 📥 Importing of Libraries
 
 Began by importing the necessary Python libraries:
 
@@ -25,7 +26,8 @@ Began by importing the necessary Python libraries:
 
 ---
 
-### 🔹 Step 2: 📂 Loading of Datasets
+## 🔹 Step 2:
+### 📂 Loading of Datasets
 
 Loaded the datasets from CSV files using Pandas. Previewed the data by displaying:
 
@@ -35,7 +37,8 @@ Loaded the datasets from CSV files using Pandas. Previewed the data by displayin
 
 ---
 
-### 🔹 Step 3: 🧹 Analyzing Datasets
+## 🔹 Step 3:
+### 🧹 Analyzing Datasets
 
 Examined the structure of each dataset:
 
@@ -45,7 +48,8 @@ Examined the structure of each dataset:
 
 ---
 
-### 🔹 Step 4: 🧩 Handling Missing Values
+## 🔹 Step 4:
+### 🧩 Handling Missing Values
 
 Utilized **Scikit-learn's `SimpleImputer`** to fill in missing values:
 
@@ -54,35 +58,40 @@ Utilized **Scikit-learn's `SimpleImputer`** to fill in missing values:
 
 ---
 
-### 🔹 Step 5: 🏷️ Data Type Identification
+## 🔹 Step 5:
+### 🏷️ Data Type Identification
 
 - 🧠 Determined the correct data types for each column  
 - 🛠️ Converted to appropriate types to support accurate analysis and transformation
 
 ---
 
-### 🔹 Step 6: 🧺 Dropping Unwanted Columns
+## 🔹 Step 6:
+### 🧺 Dropping Unwanted Columns
 
 - ❌ Identified columns not relevant to analysis  
 - 🧽 Removed them to keep the dataset lean and focused
 
 ---
 
-### 🔹 Step 7: 🔗 Merging of Datasets
+## 🔹 Step 7:
+### 🔗 Merging of Datasets
 
 - 🔄 Joined multiple cleaned datasets into one consolidated dataset  
 - 🧩 Merged using shared keys or features with care to ensure alignment
 
 ---
 
-### 🔹 Step 8: 🎯 Skewness and Outlier Analysis
+## 🔹 Step 8:
+### 🎯 Skewness and Outlier Analysis
 
 - 📈 Assessed **skewness** in numerical columns to understand distribution  
 - 🚨 Identified and treated **outliers** using the **Interquartile Range (IQR)** method
 
 ---
 
-### 🔹 Step 9: 🧠 Correlation Visualization
+## 🔹 Step 9:
+### 🧠 Correlation Visualization
 
 - 📊 Generated a **correlation matrix heatmap**  
 - 🔗 Interpreted variable relationships to find meaningful insights
