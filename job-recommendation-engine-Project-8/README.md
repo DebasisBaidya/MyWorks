@@ -1,17 +1,24 @@
 # 💼 Job Market Analysis & Recommendation System
 
-[![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-brightgreen?logo=streamlit)](https://debasis-baidya-job-recommendation-engine-project-8.streamlit.app/)
-[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
+[![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-brightgreen?logo=streamlit)](https://debasis-baidya-job-recommendation-engine-project-8.streamlit.app/) 
+[![Google Colab](https://img.shields.io/badge/Google_Colab-Notebook-yellow?logo=google-colab)](https://colab.research.google.com/)
+[![Plotly](https://img.shields.io/badge/Plotly-Interactive_Charts-blueviolet?logo=plotly)](https://plotly.com/) 
+[![WordCloud](https://img.shields.io/badge/WordCloud-Text_Visualization-skyblue)](https://amueller.github.io/word_cloud/) 
+[![StandardScaler](https://img.shields.io/badge/StandardScaler-Feature_Scaling-blue?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
+[![TfidfVectorizer](https://img.shields.io/badge/TfidfVectorizer-Vectorization-purple?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html) 
+[![KNeighborsRegressor](https://img.shields.io/badge/K_Nearest_Neighbors-Model-orange?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html) 
+[![ExponentialSmoothing](https://img.shields.io/badge/Exponential_Smoothing-Time_Series_Trend-lightgrey?logo=statsmodels&logoColor=black)](https://www.statsmodels.org/stable/generated/statsmodels.tsa.holtwinters.ExponentialSmoothing.html)
+[![Statsmodels](https://img.shields.io/badge/Statsmodels-Statistical_Modeling-blue?logo=statsmodels)](https://www.statsmodels.org/) 
+[![re](https://img.shields.io/badge/re-Text_Cleaning-informational)](https://docs.python.org/3/library/re.html) 
+[![NLTK](https://img.shields.io/badge/NLTK-Text_Processing-green?logo=nltk)](https://www.nltk.org/)
+[![IPython.display](https://img.shields.io/badge/IPython_Display-Output_Formatting-lightgrey?logo=ipython)](https://ipython.readthedocs.io/) 
+[![collections](https://img.shields.io/badge/collections-Data_Structures-lightgrey)](https://docs.python.org/3/library/collections.html) 
+[![os](https://img.shields.io/badge/OS-System_Operations-informational)](https://docs.python.org/3/library/os.html)
+[![warnings](https://img.shields.io/badge/Warnings-Ignore_Warnings-lightgrey)](https://docs.python.org/3/library/warnings.html) 
+[![pickle](https://img.shields.io/badge/Pickle-Model_Saving_&_Loading-informational)](https://docs.python.org/3/library/pickle.html) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-  <a href="https://www.linkedin.com/in/debasisbaidya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat" />
-  </a>
-  <a href="mailto:speak2debasis@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail_Me-red?logo=gmail&logoColor=white&style=flat" />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white&style=flat" />
-  </a>
+
 
 This is a fully working end-to-end Job Role Recommendation Engine I built using Python, Machine Learning, and NLP. The app takes a custom job description from the user and returns the top 10 most relevant jobs using semantic matching and multiple filters. I built it from scratch – from data wrangling and modeling to Streamlit deployment.
 
@@ -33,7 +40,7 @@ Given a job description written by a user, recommend the most relevant job posti
 ├── Task 3 - 5.ipynb       # Feature engineering, vectorization, model building
 ├── Task 6 - 8.ipynb       # Evaluation, enhancements, UI logic
 ├── Recommender.py         # Streamlit app (deployed)
-├── job_data.csv           # Cleaned dataset
+├── job_data.csv           # Cleaned dataset (not uploaded)
 ├── vectorizer.pkl         # Saved TF-IDF vectorizer
 ├── job_recommender_model.pkl  # Saved KNN model
 ```
@@ -158,7 +165,21 @@ Given a job description written by a user, recommend the most relevant job posti
 Senior MIS | Data Science Intern  
 ✅ 80%+ automation of manual processes at my workplace  
 📊 Skilled in Power BI, Python, SQL, ML, DL, NLP, Google Apps Script, Google Site  
-📫 Connect: [LinkedIn](https://www.linkedin.com/in/debasisbaidya)
+<p align="left">
+  📫 <strong>Connect with me:</strong>&nbsp;
+
+  <a href="https://www.linkedin.com/in/debasisbaidya">
+    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:speak2debasis@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Mail_Me-red?logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-green?logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
 ---
 
