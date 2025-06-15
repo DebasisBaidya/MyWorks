@@ -1,44 +1,126 @@
-**Sales Forecasting Across Multiple Retail Stores for Rossmann Pharmaceuticals**
+# 🏬 Sales Forecasting Across Multiple Retail Stores for Rossmann Pharmaceuticals
 
-## Streamlit Deployed Dashboard Link
-🔗 [Deployed Dashboard Link](https://salesforecastingproject-6-baycznp8znqyhupggduqbm.streamlit.app/)  
-🔗 [Embed Code](https://salesforecastingproject-6-baycznp8znqyhupggduqbm.streamlit.app/?embed_options=show_toolbar,show_padding,show_footer,light_theme,show_colored_line)  
+[![Python](https://img.shields.io/badge/Python-Used-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debasisbaidya)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-red?logo=gmail&logoColor=white)](mailto:speak2debasis@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!)
 
-This project predicts sales trends using Machine Learning and Deep Learning models, designed to assist businesses in planning and decision-making. The final solution is deployed as an interactive Streamlit dashboard for easy accessibility.
+---
 
-## Project Overview
-The project follows a structured workflow involving data preprocessing, machine learning modeling, deep learning implementation, and dashboard deployment. Each phase is outlined below:
+## 📊 Streamlit Deployed Dashboard
 
-## Step 1: Data Preprocessing & EDA (`Task 1.ipynb`)
-In this step:
-- The dataset was cleaned by handling missing values and ensuring data consistency.
-- Exploratory Data Analysis (EDA) was performed to uncover patterns, trends, and insights crucial for model training.
-- Key features such as `DayOfWeek`, `Promo`, and `StateHoliday` were analyzed to assess their impact on sales.
+🔗 **Live Tool/App**: [Streamlit Link](https://salesforecastingproject-6-baycznp8znqyhupggduqbm.streamlit.app/)  
 
-## Step 2: Machine Learning Model (`Task 2-2.5 ML.ipynb`)
-- Various regression models were explored to predict sales based on features like store details, promotions, and holidays.
-- The best-performing model was selected based on evaluation metrics such as RMSE and MAE.
-- Feature importance analysis provided insights into the most influential variables.
+---
 
-## Step 3: Deep Learning Model (`Task 2.6 DL.ipynb`)
-- An LSTM (Long Short-Term Memory) neural network was developed to enhance prediction accuracy by capturing temporal dependencies in the sales data.
+## 🧾 Project Overview
 
-## Step 4: Streamlit Deployment (`task 2.7-3.py`)
-- The trained LSTM model was integrated into a Streamlit dashboard for seamless user interaction.
-- Users can upload CSV or Excel files with necessary data fields, receive instant predictions, and visualize results.
-- The dashboard includes interactive graphs for predicted sales trends and a feature importance visualization (generated using random values as a placeholder).
+This project forecasts sales across multiple retail outlets using Machine Learning and Deep Learning. It helps businesses plan better using future sales predictions and key trend insights.
 
-## Features
-- ✅ Simple interface for easy use, Excel or CSV File upload i.e. Test Data
-- ✅ Uploaded Data Preview
-- ✅ Displays the last available date with Uploaded File Name from uploaded data for better context
-- ✅ Predicts sales for the next 6 weeks
-- ✅ CSV download option for predicted results
-- ✅ Interactive visualizations for better insights i.e. Prediction Graph & Feature Importance Dashboard
+🎯 **Goal**:  
+To build a predictive model and interactive dashboard for future retail sales planning.
 
-## How to Use
-1. Upload a CSV/Excel file with the required columns: `Id`, `Store`, `DayOfWeek`, `Open`, `Promo`, `StateHoliday`, `SchoolHoliday`, `Date`.
-2. View predicted sales trends in both tabular and graphical formats.
-3. Download the results as a CSV file if needed.
+🛠️ **Workflow**:  
+Data Preprocessing ➜ Machine Learning ➜ Deep Learning (LSTM) ➜ Streamlit App
 
-Effortlessly predict future sales trends with interactive visualizations and detailed insights. 🚀
+---
+
+## 🔹 Step 1:  
+### 🧹 Data Preprocessing & EDA (`Task 1.ipynb`)
+
+- 🧽 Cleaned missing values, checked consistency  
+- 📈 Performed EDA to identify patterns, trends, insights crucial in sales for model training.
+- 📊 Explored features like `DayOfWeek`, `Promo`, and `StateHoliday` to assess their impact on sales.
+
+---
+
+## 🔹 Step 2:  
+### 🤖 Machine Learning Model (`Task 2-2.5 ML.ipynb`)
+
+- 🧠 Trained multiple regression models  
+- 📉 The best-performing model was selected based on evaluation metrics such as RMSE and MAE.  
+- 🔍 Identified most important features driving sales  
+
+---
+
+## 🔹 Step 3:  
+### 🧠 Deep Learning with LSTM (`Task 2.6 DL.ipynb`)
+
+- ⏳ Used LSTM (Long Short-Term Memory) neural network to capture time-based patterns & to enhance prediction accuracy by capturing temporal dependencies in the sales data. 
+- ⚡ Achieved enhanced performance over ML models  
+
+---
+
+## 🔹 Step 4:  
+### 📲 Streamlit App Deployment (`Task 2.7-3.py`)
+
+- 🖥️ Built interactive dashboard with input file support for seamless user interaction.
+- ⛲ Users can upload CSV or Excel files with necessary data fields, receive instant predictions, and visualize results.
+- 📆 Predicts future sales and shows trend graphs  
+- 💾 Exports predictions as downloadable CSV  
+
+---
+
+## 📸 App Preview
+
+![App Screenshot](Hosted%20Streamlit%20Dashboard.png)
+
+> Screenshot of Hosted Streamlit Dashboard.
+
+---
+
+## ✨ Features
+
+- 📁 Upload CSV/Excel with test data  
+- 📌 See uploaded file name & last available date  
+- 📊 Predicts next 6 weeks’ sales  
+- 📉 Shows result table + prediction graph  
+- ⬇️ Download predicted results as CSV  
+- 📋 Feature importance visualization (simulated)
+
+---
+
+## 🚀 How to Use
+
+1. 🔗 Click on the dashboard link above.  
+2. 📤 Upload a file with required columns:  
+   - `Id`, `Store`, `DayOfWeek`, `Open`, `Promo`, `StateHoliday`, `SchoolHoliday`, `Date`  
+3. 📈 See forecast results and download them as needed.
+
+---
+
+## 📌 Why This Project Matters
+
+- 📈 Helps retail chains plan ahead and manage inventory  
+- 🧠 Combines both traditional ML and LSTM time-series modeling  
+- 🧪 Makes advanced forecasting accessible with an easy UI  
+- 🌐 Useful for analysts, decision-makers, and non-tech users alike
+
+---
+
+## 👤 About Me
+
+**Debasis Baidya**  
+Senior MIS | Data Science Intern  
+✅ Automated 80%+ of manual processes at my workplace  
+📊 Skilled in Python, Power BI, SQL, Google Apps Script, ML, DL, NLP  
+<p align="left">
+  📫 <strong>Connect with me:</strong>&nbsp;
+
+  <a href="https://www.linkedin.com/in/debasisbaidya">
+    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:speak2debasis@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Mail_Me-red?logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-green?logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ If you found this project helpful, don’t forget to **star this repo** and stay connected!
