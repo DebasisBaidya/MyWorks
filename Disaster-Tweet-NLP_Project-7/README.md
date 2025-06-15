@@ -1,6 +1,6 @@
 # 🌍 Disaster Tweet Classification (NLP Project)
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
 [![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-brightgreen?logo=streamlit)](https://disaster-tweet-nlp-debasis-baidya.streamlit.app)
 [![re](https://img.shields.io/badge/re-Regex-blue)](https://docs.python.org/3/library/re.html)
 [![NLTK](https://img.shields.io/badge/NLTK-NLP-blueviolet?logo=python&logoColor=white)](https://www.nltk.org/)
