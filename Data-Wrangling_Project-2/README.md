@@ -14,77 +14,78 @@
 
 ---
 
-### 🔹 Step 1: Importing of Libraries
+### 🔹 Step 1: 📥 Importing of Libraries
 
 Began by importing the necessary Python libraries:
 
 - 🐼 **Pandas** for data manipulation  
 - 🔢 **NumPy** for numerical operations  
-- 📈 **Matplotlib** and **Seaborn** for data visualization  
+- 📊 **Matplotlib** and 📉 **Seaborn** for data visualization  
 - 🧪 **Scikit-learn** for machine learning preprocessing tools
 
 ---
 
-### 🔹 Step 2: Loading of Datasets
+### 🔹 Step 2: 📂 Loading of Datasets
 
 Loaded the datasets from CSV files using Pandas. Previewed the data by displaying:
 
-- The first few rows (`.head()`)  
-- The last few rows (`.tail()`)  
-- The shape, column names, data types, and `.describe()` summary
+- 🔍 The first few rows using `.head()`  
+- 🔎 The last few rows using `.tail()`  
+- 📐 The shape, 📋 column names, 🧾 data types, and `.describe()` summary
 
 ---
 
-### 🔹 Step 3: Analyzing Datasets
+### 🔹 Step 3: 🧹 Analyzing Datasets
 
 Examined the structure of each dataset:
 
-- Checked for null values and unique value counts  
-- Computed basic descriptive statistics: mean, median, mode for numerical columns
+- 🚫 Checked for null values  
+- 🔣 Counted unique values  
+- 📊 Computed basic descriptive statistics: mean, median, mode for numerical columns
 
 ---
 
-### 🔹 Step 4: Handling Missing Values
+### 🔹 Step 4: 🧩 Handling Missing Values
 
 Utilized **Scikit-learn's `SimpleImputer`** to fill in missing values:
 
-- For **numerical columns** → used the **mean**  
-- For **categorical columns** → used the **mode**
+- 🔢 For **numerical columns** → used the **mean**  
+- 🔤 For **categorical columns** → used the **mode**
 
 ---
 
-### 🔹 Step 5: Data Type Identification
+### 🔹 Step 5: 🏷️ Data Type Identification
 
-Determined and set appropriate data types for each column  
-to ensure proper downstream analysis and transformation.
-
----
-
-### 🔹 Step 6: Dropping Unwanted Columns
-
-Removed any unnecessary columns that do not contribute to the analysis,  
-keeping the dataset focused and efficient.
+- 🧠 Determined the correct data types for each column  
+- 🛠️ Converted to appropriate types to support accurate analysis and transformation
 
 ---
 
-### 🔹 Step 7: Merging of Datasets
+### 🔹 Step 6: 🧺 Dropping Unwanted Columns
 
-Combined the cleaned datasets into a single **merged dataset**.  
-Ensured correct alignment based on shared features or key variables.
-
----
-
-### 🔹 Step 8: Skewness and Outlier Analysis
-
-- Assessed the **skewness** of numerical columns to understand data distribution  
-- Identified and handled **outliers** using the **Interquartile Range (IQR)** method
+- ❌ Identified columns not relevant to analysis  
+- 🧽 Removed them to keep the dataset lean and focused
 
 ---
 
-### 🔹 Step 9: Correlation Visualization
+### 🔹 Step 7: 🔗 Merging of Datasets
 
-Generated a **correlation matrix** to visualize relationships  
-between different variables in the final dataset.
+- 🔄 Joined multiple cleaned datasets into one consolidated dataset  
+- 🧩 Merged using shared keys or features with care to ensure alignment
+
+---
+
+### 🔹 Step 8: 🎯 Skewness and Outlier Analysis
+
+- 📈 Assessed **skewness** in numerical columns to understand distribution  
+- 🚨 Identified and treated **outliers** using the **Interquartile Range (IQR)** method
+
+---
+
+### 🔹 Step 9: 🧠 Correlation Visualization
+
+- 📊 Generated a **correlation matrix heatmap**  
+- 🔗 Interpreted variable relationships to find meaningful insights
 
 ---
 
@@ -116,7 +117,6 @@ Senior MIS | Data Science Intern
     <img src="https://img.shields.io/badge/WhatsApp-Message-green?logo=whatsapp&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
