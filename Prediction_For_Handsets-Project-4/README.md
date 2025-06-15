@@ -1,4 +1,4 @@
-# 📱 Project 4: Feature Analysis and Price Prediction for Handsets
+# 📱 Project 4: Feature Analysis & Price Prediction for Handsets
 
 [![Python](https://img.shields.io/badge/Python-Used-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-Used-purple?logo=numpy&logoColor=white)](https://numpy.org/)
