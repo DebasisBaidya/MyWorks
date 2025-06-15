@@ -1,13 +1,25 @@
 # 🌍 Disaster Tweet Classification (NLP Project)
 
-[![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-brightgreen?logo=streamlit)](https://disaster-tweet-nlp-debasis-baidya.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
+[![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-brightgreen?logo=streamlit)](https://disaster-tweet-nlp-debasis-baidya.streamlit.app)
+[![re](https://img.shields.io/badge/re-Regex-blue)](https://docs.python.org/3/library/re.html)
+[![NLTK](https://img.shields.io/badge/NLTK-NLP-blueviolet?logo=python&logoColor=white)](https://www.nltk.org/)
+[![TextBlob](https://img.shields.io/badge/TextBlob-Sentiment-yellowgreen)](https://textblob.readthedocs.io/en/dev/)
+[![WordCloud](https://img.shields.io/badge/WordCloud-Used-lightblue)](https://amueller.github.io/word_cloud/)
+[![scipy.sparse](https://img.shields.io/badge/SciPy.sparse-SparseMatrix-orange)](https://docs.scipy.org/doc/scipy/reference/sparse.html)
+[![joblib](https://img.shields.io/badge/Joblib-ModelSaving-darkgreen)](https://joblib.readthedocs.io/)
+[![pickle](https://img.shields.io/badge/Pickle-Serialization-green)](https://docs.python.org/3/library/pickle.html)
+[![tqdm](https://img.shields.io/badge/tqdm-ProgressBar-teal)](https://tqdm.github.io/)
+[![collections](https://img.shields.io/badge/collections-DataStructures-lightgrey)](https://docs.python.org/3/library/collections.html)
+[![transformers](https://img.shields.io/badge/Transformers-HuggingFace-red?logo=huggingface&logoColor=white)](https://huggingface.co/transformers/)
+[![os](https://img.shields.io/badge/OS_Module-Used-lightgrey)](https://docs.python.org/3/library/os.html)
+[![IPython.display](https://img.shields.io/badge/IPython.display-Jupyter-magenta)](https://ipython.readthedocs.io/en/stable/api/generated/IPython.display.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This project is about classifying tweets to check whether they are related to a real disaster or not using NLP techniques. It covers everything from text cleaning, feature extraction, model building, and finally deployment.
 
-- 🚀 **Live App**: [https://disaster-tweet-nlp-debasis-baidya.streamlit.app](https://disaster-tweet-nlp-debasis-baidya.streamlit.app)
-- 📺 **All About My App**: [https://youtu.be/VebH__P0o5s](https://youtu.be/VebH__P0o5s)
+- 🚀 **Live App**: [Streamlit Link](https://disaster-tweet-nlp-debasis-baidya.streamlit.app)
+- 📺 **All About My App**: [Demo Video Link](https://youtu.be/VebH__P0o5s)
 
 ---
 
@@ -90,6 +102,27 @@ The model will predict:
 
 ## 🙋‍♂️ About Me
 
-This was a NLP project I worked on to understand how to handle text data and build something useful out of it. Always open to feedback or improvements.  
-**– Debasis Baidya**
+**Debasis Baidya**  
+Senior MIS | Data Science Intern  
+✅ Automated 80%+ of manual processes at my workplace  
+📊 Skilled in Python, Power BI, SQL, Google Apps Script, ML, DL, NLP  
+<p align="left">
+  📫 <strong>Connect with me:</strong>&nbsp;
+
+  <a href="https://www.linkedin.com/in/debasisbaidya">
+    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:speak2debasis@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Mail_Me-red?logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-green?logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ If you found this project helpful, don’t forget to **star this repo** and stay connected!
 
