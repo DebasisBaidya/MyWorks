@@ -7,7 +7,6 @@
 [![XGBoost](https://img.shields.io/badge/XGBoost-Used-orange?logo=python&logoColor=white)](https://xgboost.readthedocs.io/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-Used-blue?logo=python&logoColor=white)](https://seaborn.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Used-orange?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!)
 
 ---
 
