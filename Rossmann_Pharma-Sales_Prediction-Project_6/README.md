@@ -1,10 +1,16 @@
 # 🏬 Sales Forecasting Across Multiple Retail Stores for Rossmann Pharmaceuticals
 
 [![Python](https://img.shields.io/badge/Python-Used-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debasisbaidya)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-red?logo=gmail&logoColor=white)](mailto:speak2debasis@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?logo=streamlit&logoColor=white)](https://salesforecastingproject-6-baycznp8znqyhupggduqbm.streamlit.app/)
+[![Logging](https://img.shields.io/badge/Python-Logging-informational?logo=python&logoColor=white)](https://docs.python.org/3/library/logging.html)
+[![SciPy](https://img.shields.io/badge/SciPy-Used-blue?logo=scipy&logoColor=white)](https://scipy.org/)
+[![Statsmodels](https://img.shields.io/badge/statsmodels-Used-lightgrey)](https://www.statsmodels.org/)
+[![MLflow](https://img.shields.io/badge/MLflow-Tracking-orange?logo=mlflow&logoColor=white)](https://mlflow.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-Model-orange?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-Deep_Learning-red?logo=keras&logoColor=white)](https://keras.io/)
+[![Pickle](https://img.shields.io/badge/Pickle-Serialization-green)](https://docs.python.org/3/library/pickle.html)
+[![OS](https://img.shields.io/badge/OS_Module-Used-lightgrey)](https://docs.python.org/3/library/os.html)
+
 
 ---
 
