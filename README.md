@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Debasis Baidya</h1>
+<h1 align="center">👋 Hi, I'm Debasis Baidya from Kolkata </h1>
 
 <p align="center">
   🚀 Automation-Focused MIS Leader | 💻 Data Analyst | 📊 Aspiring Data Scientist
@@ -73,6 +73,7 @@
         <li>🖥️ <a href="https://github.com/DebasisBaidya/GUI-Calculator_Project-1">GUI Calculator Project 1</a></li>
         <li>🧹 <a href="https://github.com/DebasisBaidya/Data-Wrangling_Project-2">Data Wrangling Project 2</a></li>
         <li>📊 <a href="https://github.com/DebasisBaidya/EDA_Project-3">Exploratory Data Analysis (EDA) Project 3</a></li>
+        <li>🏡 <a href="https://github.com/DebasisBaidya/Property-Price-Prediction-Capstone_1.git">Property Price Prediction - Regression Capstone Project 1</a></li>
         <li>📱 <a href="https://github.com/DebasisBaidya/Prediction_For_Handsets-Project-4">Prediction For Handsets Project 4</a></li>
         <li>📈 <a href="https://github.com/DebasisBaidya/Strategic-Business-Acquisition_Project-5">Strategic Business Acquisition Project 5</a></li>
         <li>📅 <a href="https://github.com/DebasisBaidya/Sales_Forecasting_Project-6">Sales Forecasting Project 6</a></li>
@@ -92,5 +93,3 @@
   🙏 Thanks for visiting my GitHub Profile!<br>
   ⭐ I'm someone who automates to elevate — turning manual chaos into meaningful clarity.
 </p>
-
-
