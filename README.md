@@ -39,14 +39,14 @@
   <a href="https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://github.com/DebasisBaidya-Kolkata-WB">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=DebasisBaidya-Kolkata-WB" style="height:20px; margin-left: 2px;" />
+  <a href="https://github.com/DebasisBaidya">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=DebasisBaidya" style="height:20px; margin-left: 2px;" />
   </a>
-  <a href="https://github.com/DebasisBaidya-Kolkata-WB">
-    <img src="https://img.shields.io/github/followers/DebasisBaidya-Kolkata-WB?label=Followers&style=flat&logo=github" />
+  <a href="https://github.com/DebasisBaidya">
+    <img src="https://img.shields.io/github/followers/DebasisBaidya?label=Followers&style=flat&logo=github" />
   </a>
-  <a href="https://github.com/DebasisBaidya-Kolkata-WB?tab=stars">
-    <img src="https://img.shields.io/github/stars/DebasisBaidya-Kolkata-WB?affiliations=OWNER&label=Total%20Stars&style=flat&logo=github" />
+  <a href="https://github.com/DebasisBaidya?tab=stars">
+    <img src="https://img.shields.io/github/stars/DebasisBaidya?affiliations=OWNER&label=Total%20Stars&style=flat&logo=github" />
   </a>
 </p>
 
@@ -70,18 +70,18 @@
   <tr>
     <td align="left" style="padding: 0 20px; max-width: 400px;">
       <ul>
-        <li>🖥️ <a href="https://github.com/DebasisBaidya-Kolkata-WB/GUI-Calculator_Project-1">GUI Calculator Project 1</a></li>
-        <li>🧹 <a href="https://github.com/DebasisBaidya-Kolkata-WB/Data-Wrangling_Project-2">Data Wrangling Project 2</a></li>
-        <li>📊 <a href="https://github.com/DebasisBaidya-Kolkata-WB/EDA_Project-3">Exploratory Data Analysis (EDA) Project 3</a></li>
-        <li>🏡 <a href="https://github.com/DebasisBaidya-Kolkata-WB/Property-Price-Prediction-Capstone_1.git">Property Price Prediction - Regression Capstone Project 1</a></li>
-        <li>📱 <a href="https://github.com/DebasisBaidya-Kolkata-WB/Prediction_For_Handsets-Project-4">Prediction For Handsets Project 4</a></li>
-        <li>📈 <a href="https://github.com/DebasisBaidya-Kolkata-WB/Strategic-Business-Acquisition_Project-5">Strategic Business Acquisition Project 5</a></li>
-        <li>📅 <a href="https://github.com/DebasisBaidya-Kolkata-WB/Sales_Forecasting_Project-6">Sales Forecasting Project 6</a></li>
-        <li>🌪️ <a href="https://github.com/DebasisBaidya-Kolkata-WB/Disaster-Tweet-NLP_Project-7">Disaster Tweet NLP Project 7</a></li>
-        <li>💼 <a href="https://github.com/DebasisBaidya-Kolkata-WB/job-recommendation-engine-Project-8">Job Recommendation Engine Project 8</a></li>
-        <li>🛒 <a href="https://github.com/DebasisBaidya-Kolkata-WB/Amazon_Reviews_Sentiment-NLP">Amazon Reviews Sentiment NLP</a></li>
-        <li>📰 <a href="https://github.com/DebasisBaidya-Kolkata-WB/LLM-News-Research-Tool_Project-9">LLM News Research Tool Project 9</a></li>
-        <li>📂 <a href="https://github.com/DebasisBaidya-Kolkata-WB/MyWorks">MyWorks</a></li>
+        <li>🖥️ <a href="https://github.com/DebasisBaidya/GUI-Calculator_Project-1">GUI Calculator Project 1</a></li>
+        <li>🧹 <a href="https://github.com/DebasisBaidya/Data-Wrangling_Project-2">Data Wrangling Project 2</a></li>
+        <li>📊 <a href="https://github.com/DebasisBaidya/EDA_Project-3">Exploratory Data Analysis (EDA) Project 3</a></li>
+        <li>🏡 <a href="https://github.com/DebasisBaidya/Property-Price-Prediction-Capstone_1.git">Property Price Prediction - Regression Capstone Project 1</a></li>
+        <li>📱 <a href="https://github.com/DebasisBaidya/Prediction_For_Handsets-Project-4">Prediction For Handsets Project 4</a></li>
+        <li>📈 <a href="https://github.com/DebasisBaidya/Strategic-Business-Acquisition_Project-5">Strategic Business Acquisition Project 5</a></li>
+        <li>📅 <a href="https://github.com/DebasisBaidya/Sales_Forecasting_Project-6">Sales Forecasting Project 6</a></li>
+        <li>🌪️ <a href="https://github.com/DebasisBaidya/Disaster-Tweet-NLP_Project-7">Disaster Tweet NLP Project 7</a></li>
+        <li>💼 <a href="https://github.com/DebasisBaidya/job-recommendation-engine-Project-8">Job Recommendation Engine Project 8</a></li>
+        <li>🛒 <a href="https://github.com/DebasisBaidya/Amazon_Reviews_Sentiment-NLP">Amazon Reviews Sentiment NLP</a></li>
+        <li>📰 <a href="https://github.com/DebasisBaidya/LLM-News-Research-Tool_Project-9">LLM News Research Tool Project 9</a></li>
+        <li>📂 <a href="https://github.com/DebasisBaidya/MyWorks">MyWorks</a></li>
       </ul>
     </td>
   </tr>
