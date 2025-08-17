@@ -81,6 +81,7 @@
         <li>💼 <a href="https://github.com/DebasisBaidya/job-recommendation-engine-Project-8">Job Recommendation Engine Project 8</a></li>
         <li>🛒 <a href="https://github.com/DebasisBaidya/Amazon_Reviews_Sentiment-NLP">Amazon Reviews Sentiment NLP</a></li>
         <li>📰 <a href="https://github.com/DebasisBaidya/LLM-News-Research-Tool_Project-9">LLM News Research Tool Project 9</a></li>
+        <li>🩺 <a href="https://github.com/DebasisBaidya/Custom-OCR-with-YOLO-on-Drive_Project-10.git">Custom OCR on AWS/Google Drive Project 10</a></li>
         <li>📂 <a href="https://github.com/DebasisBaidya/MyWorks">MyWorks</a></li>
       </ul>
     </td>
@@ -93,3 +94,7 @@
   🙏 Thanks for visiting my GitHub Profile!<br>
   ⭐ I'm someone who automates to elevate — turning manual chaos into meaningful clarity.
 </p>
+
+
+
+
