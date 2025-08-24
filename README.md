@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Transforming manual processes into smart, automated systems for over 11 years</strong><br>
-  <i>Currently Working as Senior MIS Analyst as well as Interning as Data Science Intern — building real-world projects in EDA, ML, DL & NLP</i>
+  <i>Currently working as Senior MIS Analyst & have completed an internship as Data Science Intern — built real-world projects in EDA, ML, DL & NLP</i>
 </p>
 
 <p align="center">
