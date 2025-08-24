@@ -51,6 +51,9 @@
   <a href="https://linktr.ee/debasisbaidya" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/My%20Certifications-View-orange?style=flat&logo=google-drive&logoColor=white" />
   </a>
+  <a href="https://sites.google.com/view/debasisbaidyakolkata" target="_blank" rel="noopener noreferrer" style="margin-left: 8px;">
+    <img src="https://img.shields.io/badge/My%20Google%20Sites-Visit-blue?style=flat&logo=google-sites&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">🌟🌟🌟🌟🌟</p>
