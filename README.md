@@ -88,7 +88,6 @@
         <li>🛒 <a href="https://github.com/DebasisBaidya/Amazon_Reviews_Sentiment-NLP">Amazon Reviews Sentiment NLP</a></li>
         <li>📰 <a href="https://github.com/DebasisBaidya/LLM-News-Research-Tool_Project-9">LLM News Research Tool Project 9</a></li>
         <li>🩺 <a href="https://github.com/DebasisBaidya/Custom-OCR-with-YOLO-on-Drive_Project-10.git">Custom OCR on AWS/Google Drive Project 10</a></li>
-        <li>📂 <a href="https://github.com/DebasisBaidya/MyWorks">MyWorks</a></li>
       </ul>
     </td>
   </tr>
